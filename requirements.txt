@@ -1,11 +1,5 @@
 Flask
 Gunicorn
-os
-re
 pandas
 PyPDF2
 docx 
-docx2txt
-zipfile
-io 
-logging
