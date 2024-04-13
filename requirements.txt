@@ -1,5 +1,5 @@
 Flask
-Gunicorn
 pandas
 PyPDF2
-docx 
+python-docx
+docx2txt
